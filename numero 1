@@ -1,1 +1,3 @@
-index.html
+index.html<div class="imagem">
+    <img src="Foto1.png" alt="descrição imagem">
+</div>
